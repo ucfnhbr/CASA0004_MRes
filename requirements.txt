@@ -1,0 +1,13 @@
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+geopandas
+shapely
+h3
+pyreadstat
+pyarrow
+openpyxl
+scikit-learn
+statsmodels

@@ -1,0 +1,32 @@
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Generated outputs
+outputs/
+figs/
+
+# LaTeX temporary files
+tex/*.aux
+tex/*.log
+tex/*.out
+tex/*.synctex.gz
+tex/*synctex*
+
+# Local and editor files
+.DS_Store
+texput.log
+.claude/
+~$*
+
+# Working documents and reference material
+*.docx
+A/
+lit review/
+Lit_link/
+md/
+
+# Other local datasets
+2017_OD/
+data/
