@@ -25,6 +25,10 @@ The main data source is the 2023 Sao Paulo Origin-Destination Survey published b
 
 <https://www.metro.sp.gov.br/pesquisa-od/>
 
+Points-of-interest information was derived from the 2022 National Register of Addresses for Statistical Purposes (CNEFE), published by the Brazilian Institute of Geography and Statistics (IBGE):
+
+<https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html>
+
 Users should consult the original provider for current documentation and terms of use.
 
 ## Notes
